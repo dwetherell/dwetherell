@@ -13,10 +13,6 @@ Engineering leader in Columbus, Ohio. Director of Technology at [Wondersauce](ht
 
 Most of my code for the last decade lives in private client repositories, so this page is thinner than the work behind it. The Pull Shark badge is the only public trace of a thousand-plus merged pull requests. The pinned repos below are what I can share.
 
-<!-- Replace these with your real repos. Two or three is plenty. -->
-- [repo-name](https://github.com/dwetherell/repo-name): one line on what it does and why it exists.
-- [repo-name](https://github.com/dwetherell/repo-name): one line.
-- [repo-name](https://github.com/dwetherell/repo-name): one line.
 
 ## Stack
 
